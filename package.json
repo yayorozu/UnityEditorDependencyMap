@@ -1,0 +1,17 @@
+{
+  "name": "yorozu.dependency-map",
+  "version": "1.0.0",
+  "displayName": "Asset Dependency Map",
+  "description": "指定したアセットの Dependency を元に1対多の依存関係のリストを作成して表示するツール",
+  "unity": "2020.3",
+  "keywords": [
+    "EditorTool",
+    "Yorozu",
+    "Dependency"
+  ],
+  "author": {
+    "name": "Yorozu",
+    "email": "hatch.tech.eng@gmail.com",
+    "url": "https://github.com/yayorozu"
+  }
+}
